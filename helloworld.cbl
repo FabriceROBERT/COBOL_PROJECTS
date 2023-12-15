@@ -14,7 +14,7 @@
 
            ACCEPT WS-NOM.
            
-           DISPLAY 'Et bien salut à toi' WS-NOM.
+           DISPLAY 'Et bien salut à toi ' WS-NOM.
 
 
            STOP RUN.
